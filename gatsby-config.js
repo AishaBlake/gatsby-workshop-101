@@ -4,6 +4,7 @@ module.exports = {
         author: `Aisha Blake`,
         description: `Aisha Blake's personal site for Gatsby 101 at CodeLand`,
         siteUrl: `https://workshop-site-101.netlify.app`,
+        alternateSite: `https://aisha.codes`,
         social: [
             {
                 name: `Twitter`,
