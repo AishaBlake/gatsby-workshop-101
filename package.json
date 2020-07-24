@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "gatsby": "^2.24.11",
+    "gatsby-plugin-mdx": "^1.2.29",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
